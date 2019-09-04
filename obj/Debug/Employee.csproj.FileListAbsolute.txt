@@ -1,0 +1,6 @@
+C:\Users\sngetich\Documents\Employee\bin\Debug\Employee.dll
+C:\Users\sngetich\Documents\Employee\bin\Debug\Employee.pdb
+C:\Users\sngetich\Documents\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
+C:\Users\sngetich\Documents\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\sngetich\Documents\Employee\obj\Debug\Employee.dll
+C:\Users\sngetich\Documents\Employee\obj\Debug\Employee.pdb
